@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--  LinearLayout 내에 배치할 View 들을 정의 -->
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:textSize="30sp"
+        android:background="@color/myTextBackgroundColor"
+        android:textColor="@android:color/holo_blue_dark"
+        android:padding="40dp"
+        android:layout_margin="10dp"
+        android:textStyle="italic|bold"
+        android:visibility="invisible"
+        />
+    3
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/myTextBackgroundColor"
+        android:textColor="@color/myTextColor"
+        android:paddingLeft="100dp"
+        android:paddingRight="30dp"
+        android:paddingTop="50dp"
+        android:paddingBottom="10dp"
+        android:text="TextView"/>
+
+</LinearLayout>

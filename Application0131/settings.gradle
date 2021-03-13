@@ -1,0 +1,4 @@
+include ':alertapp'
+include ':touchEventApp'
+include ':app'
+rootProject.name = "Application0131"

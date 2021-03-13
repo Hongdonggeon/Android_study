@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleAdapterApp</string>
+    <string-array name="room_infor">
+        <item>name</item>
+        <item>date</item>
+        <item>message</item>
+    </string-array>
+</resources>

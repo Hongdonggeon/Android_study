@@ -1,0 +1,3 @@
+include ':fragmentcallbackapp'
+include ':app'
+rootProject.name = "Application0227"

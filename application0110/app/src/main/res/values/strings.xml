@@ -1,0 +1,6 @@
+<resources>
+    <!--  앱의 이름  -->
+    <string name="app_name">My Android Application</string>
+    <!--  종료 메세지  -->
+    <string name="app_finish_msg">종료하시겠습니까?</string>
+</resources>

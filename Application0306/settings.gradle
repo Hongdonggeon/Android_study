@@ -1,0 +1,3 @@
+include ':friendlist'
+include ':app'
+rootProject.name = "Application0306"

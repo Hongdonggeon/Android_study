@@ -1,0 +1,6 @@
+include ':adpaterapp3'
+include ':simpleadapterapp'
+include ':adapterapp2'
+include ':adapterapp'
+include ':app'
+rootProject.name = "Application0228"

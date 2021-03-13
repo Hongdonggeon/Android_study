@@ -1,0 +1,4 @@
+include ':loginapp'
+include ':eventapp'
+include ':app'
+rootProject.name = "Application0124"

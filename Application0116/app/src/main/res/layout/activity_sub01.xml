@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <!-- 레이아웃의 시작태그와 끝태그 사이에 뷰를 작성해야 화면에 보여진다.   -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:paddingVertical="20dp"
+        android:text="Hello Android!"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:paddingVertical="20dp"
+        android:text="Hello Android!"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:paddingVertical="20dp"
+        android:text="Hello Android!"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:paddingVertical="20dp"
+        android:text="Hello Android!"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:paddingVertical="20dp"
+        android:text="Hello Android!"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+
+</LinearLayout>

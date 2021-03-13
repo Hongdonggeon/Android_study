@@ -1,0 +1,5 @@
+include ':loginapp'
+include ':intentapp'
+include ':dialogapp'
+include ':app'
+rootProject.name = "Application0206"

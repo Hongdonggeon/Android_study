@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dialogapp</string>
+    
+    <string-array name="options"
+</resources>
