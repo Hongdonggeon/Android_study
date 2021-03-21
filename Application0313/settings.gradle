@@ -1,0 +1,4 @@
+include ':viewpageapp2'
+include ':viewpageapp'
+include ':app'
+rootProject.name = "Application0313"
