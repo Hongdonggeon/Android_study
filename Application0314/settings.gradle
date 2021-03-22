@@ -1,0 +1,5 @@
+include ':tablayoutapp'
+include ':fragmentpager'
+include ':example01_solve'
+include ':app'
+rootProject.name = "Application0314"
