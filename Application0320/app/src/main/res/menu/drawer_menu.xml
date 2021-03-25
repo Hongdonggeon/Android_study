@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawer_setting"
+        android:title="HOME"
+        android:icon="@draw">
+
+
+    </item>
+    <item
+        android:title="Message"
+        android:icon="">
+
+    </item>
+    <item
+        android:title="Setting"
+        android:icon="">
+
+    </item>
+    <item
+        android:title="Other"
+        android:icon="">
+
+    </item>
+    <item
+
+        android:title="QnA"
+        android:icon="">
+
+    </item>
+</menu>
